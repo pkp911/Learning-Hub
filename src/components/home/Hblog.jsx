@@ -4,7 +4,12 @@ import { blog } from "../../dummydata"
 import Heading from "../common/heading/Heading"
 
 // copy code of blog => blogCard
-
+/*JSX stands for JavaScript XML. It is a syntax extension for JavaScript, 
+primarily used with React to describe what the UI should look like. 
+JSX produces React "elements" and makes it easier to write and add HTML in React. */
+/*The language used in this code is JavaScript, specifically a syntax extension 
+for JavaScript called JSX (JavaScript XML). JSX is primarily used with the React 
+library to describe what the user interface should look like.*/
 const Hblog = () => {
   return (
     <>
